@@ -1,9 +1,5 @@
 #coding: utf-8
-'''
-Felipe Mocruha Alcantara
-NUSP: 8531949
 
-'''
 
 import sys
 import numpy as np
